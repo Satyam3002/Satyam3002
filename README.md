@@ -10,7 +10,8 @@
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyam3002&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" width="400"></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam3002&theme=chartreuse-dark"></p>
+<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satyam3002&theme=chartreuse-dark" alt="GitHub Streak" /></p>
+
 
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
